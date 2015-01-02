@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mitchellh/goamz/aws"
+	"github.com/henrysher/goamz/aws"
 )
 
 // ----------------------------------------------------------------------------

@@ -5,7 +5,7 @@ import (
 	"crypto/sha256"
 	"encoding/base64"
 	"fmt"
-	"github.com/mitchellh/goamz/aws"
+	"github.com/henrysher/goamz/aws"
 	"time"
 )
 
