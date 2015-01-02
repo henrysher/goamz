@@ -1,8 +1,8 @@
 # goamz - An Amazon Library for Go 
 
-[![Build Status](https://travis-ci.org/henrysher/goamz.svg)](https://travis-ci.org/henrysher/goamz)
+[![Build Status](https://travis-ci.org/henrysher/goamz.svg?branch=enable-travis-ci)](https://travis-ci.org/henrysher/goamz)
 
-Current API documentation: [![GoDoc](https://godoc.org/github.com/henrysher/goamz?status.svg)](https://godoc.org/github.com/henrysher/goamz)
+Current API documentation: [![GoDoc](https://godoc.org/github.com/mitchellh/goamz?status.svg)](https://godoc.org/github.com/mitchellh/goamz)
 
 This is a fork of [https://launchpad.net/goamz](https://launchpad.net/goamz)
 that adds some missing API calls to certain packages.
